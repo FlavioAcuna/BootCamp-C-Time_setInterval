@@ -20,7 +20,7 @@ function getSecond(s) {
 }
 
 var minutes = document.getElementById("minutes");
-var hours = document.getElementById("hours");
+var hours = document.getElementById("hour");
 var second = document.getElementById("seconds");
 
 setInterval(function () {
